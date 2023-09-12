@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ildrassil
+- 👋 Hi, I’m @Ildrassil i´m a Coding student and I´m just getting started;
 - 👀 I’m interested in Software developing, Gaming and Web developing;
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS and Python;
 - 💞️ I’m looking to collaborate on Java and JavaScript to deepen my Skills;
-- 📫 How to reach me PM me I´m always keen to find somebody to help me Study or play a little league ;) ;
+- 📫 How to reach me PM me I´m always keen to find somebody to help me Study or play a little league (LocoSenna) ;) ;
 
 <!---
 Ildrassil/Ildrassil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
